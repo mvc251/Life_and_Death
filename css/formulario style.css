@@ -1,0 +1,10 @@
+#popupBody {
+  width: 46%;
+  padding: 2%;
+  border-radius: 15px;
+  box-shadow: 0 0 5px #ccc;
+  background: rgba(72, 20, 114, 0.596);
+  position: relative;
+  margin: 20% auto;
+  transition: all 5s ease-in-out;
+}
